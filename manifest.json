@@ -1,0 +1,25 @@
+{
+  "name": "Pronpt+",
+  "short_name": "Pronpt+",
+  "description": "",
+  "start_url": "/-generator/",
+  "scope": "/-generator/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#76bb40",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/-generator/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/-generator/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
